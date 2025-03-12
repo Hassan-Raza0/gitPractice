@@ -1,4 +1,4 @@
 h1{
-    text-align: end;
-    text-decoration: dotted;
+    align-items: center;
+    display: flex;
 }
